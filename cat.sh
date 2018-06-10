@@ -12,3 +12,4 @@
 watch -n 1 $1
 #watch -n 1 $1
 #watch -n 1 $1
+watch -n 1 $1
